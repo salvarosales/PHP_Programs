@@ -1,4 +1,4 @@
-<?php require_once('Connections/redes.php'); ?>
+
 <?php require_once('Connections/redes.php'); ?>
 <?php
 if (!function_exists("GetSQLValueString")) {
